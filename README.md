@@ -1,27 +1,21 @@
-# PortfolioAngularSite
+# Jaspher Pasol Portfolio Site
+Hi! I'm Jaspher Pasol, Software Engineer, started out as a simple CompEngr graduate that leveraged his experience in VB6, to transition to C#, and now as a frontend Developer using Angular.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+My Goal is to be simply a Software Engineer, following the principle not the tool, expressing my artistic passion where tools doesn't make the art, but the artist itself. 
 
-## Development server
+But this project doesn't necessarily mean it will capture color or invoke emotions, but instead its a canvas for expression when practicing software engineering principles, and ideas.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Objective
+To Generate a Portfolio Website that showcases all the work and experiences i had over my career and showcase my skills as a software engineer.
 
-## Code scaffolding
+## General
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Modules
+### Homepage
 
-## Build
+## README
+This File will also serve as the application's repository of change. this tracks all improvements, and will be the overview of the application and its truth.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+For every issue, there should be a branch, and within that branch, the first commit will be the changes. 
+So by the time that the feature branch is merge and main is updated, this README also takes note of its changes.
+## License MIT 
